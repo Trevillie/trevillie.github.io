@@ -39,7 +39,8 @@ Currently, I am working on practical attacks against real machine learning syste
 
 - [https://arxiv.org/abs/1705.09064 “MagNet: a Two-Pronged Defense Against Adversarial Examples.”] \n
 *Dongyu Meng*, and Hao Chen. 2017. \n
-In ACM Conference on Computer and Communications Security (*CCS*). Dallas, TX.
+In ACM Conference on Computer and Communications Security (*CCS*). Dallas, TX. \n
+[https://docs.google.com/presentation/d/18s1pSqhVPT8QlTJbaZ_lPRdzWYQdVw9BdnAGb3RjG1o/edit?usp=sharing \[Slides\]] [https://github.com/Trevillie/MagNet \[Code\]]
 - [papers/wu2017fingerprinting.pdf “Evaluating Private Modes in Desktop and Mobile Browsers and Their Resistance to Fingerprinting.”] \n
 Yuanyi Wu, *Dongyu Meng*, and Hao Chen. 2017. \n
 In IEEE Conference on Communications and Network Security (*CNS*). Las Vegas, NV.
