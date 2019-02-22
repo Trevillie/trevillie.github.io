@@ -12,25 +12,23 @@
 {}{img_left}{res/mdy2.jpg}{Photo}{130px}
 \n
 {{<img src="res/name.png" height="30px"/>}}
-\n\nFinal Year Master Student
-\nComputer Science
-\nShanghaiTech University, Shanghai, China
-\n\n{{<img src="res/email.png" height="20.0em"/>}} zbshfmmm\[AT\]gmail\[DOT\]com\n\n
+\n\nPh.D. Student
+\nDepartment of Computer Science
+\nUniversity of California, Santa Barbara
+\n\n{{<a href="https://scholar.google.com/citations?user=URdHfGMAAAAJ&hl=en"><img src="res/scholar.png" height="40.0em"/></a>}}  {{<a href="https://github.com/Trevillie"><img src="res/github.png" height="40.0em"/></a>}}  {{<a href="mailto:zbshfmmm@gmail.com"><img src="res/mail.png" height="40.0em"/></a>}}
+#\n{{<img src="res/email.png" height="20.0em"/>}} zbshfmmm\[AT\]gmail\[DOT\]com
+#\n{{<img src="res/email.png" height="20.0em"/>}} dmeng\[AT\]ucsb\[DOT\]edu\n\n
 ~~~
 
 == About Me
 
 Hi there. Welcome to my homepage.
 
-I am a final year master student at [http://www.shanghaitech.edu.cn/eng/ ShanghaiTech University], working with professor [http://web.cs.ucdavis.edu/~hchen/ Hao Chen].
-I got my bachelor's degree from the [http://www.tsinghua.edu.cn/publish/auen/index.html Department of Automation] at [http://www.tsinghua.edu.cn/publish/newthuen/ Tsinghua University], China.
+I am a Ph.D. student at [https://ucsb.edu/ UC Santa Barbara]. I work in [https://seclab.cs.ucsb.edu/ SecLab] under the supervision of professor [https://www.cs.ucsb.edu/~vigna/ Giovanni Vigna] and [https://www.cs.ucsb.edu/~chris/ Christopher Kruegel]. Before coming to UCSB, I got my master's degree from [http://www.shanghaitech.edu.cn/eng/ ShanghaiTech University] with professor [http://web.cs.ucdavis.edu/~hchen/ Hao Chen]. I also hold a bachelor's degree from [http://www.tsinghua.edu.cn/publish/auen/index.html Department of Automation], [http://www.tsinghua.edu.cn/publish/newthuen/ Tsinghua University].
 
 == Research Interest
 
 I am broadly interested in topics within the range of computer security and privacy. My past work has mainly focused on security and privacy issues of emerging technologies, namely mobile applications and machine learning systems. For the former, I worked on Android application obfuscation and mobile browser privacy. For the latter, I studied adversarial examples and testing techniques for deep learning systems.
-
-Currently, I am working on practical attacks against real machine learning systems.
-
 
 == Publications
 
