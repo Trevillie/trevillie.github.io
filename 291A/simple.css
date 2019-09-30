@@ -1,6 +1,12 @@
 body {
    color: white;
 }
+
 table#squad {
-   text-align:center; 
+   text-align: center; 
+}
+
+a {
+   color: white;
+   font-weight: bold;
 }
