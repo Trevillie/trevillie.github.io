@@ -33,7 +33,7 @@ I go by Hector with non-Chinese speakers. The photo is from 2018 — imagine me 
 
 == Publications
 
-- [https://trevillie.github.io/ “Houston: Real-Time Anomaly Detection of Attacks against Ethereum DeFi Protocols”] \n
+- [papers/Houston_NDSS_2026_Full_Version.pdf “Houston: Real-Time Anomaly Detection of Attacks against Ethereum DeFi Protocols”] \n
 *Dongyu Meng*\*, Fabio Gritti\*, Robert McLaughlin, Nicola Ruaro, Ilya Grishchenko, Christopher Kruegel, Giovanni Vigna \n
 NDSS 2026 (To Appear) \n
 - [https://www.usenix.org/system/files/usenixsecurity25-ruaro.pdf “Approve Once, Regret Forever: On the Exploitation of Ethereum’s Approve-TransferFrom Ecosystem”] \n
