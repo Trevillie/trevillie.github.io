@@ -43,7 +43,7 @@ USENIX Security 2025 \n
 Nicola Ruaro, Fabio Gritti, Robert McLaughlin, *Dongyu Meng*, Ilya Grishchenko, Christopher Kruegel, Giovanni Vigna \n
 DIMVA 2025 \n
 - [https://sites.cs.ucsb.edu/~vigna/publications/2021_EuroSP_Bullseye.pdf “Bullseye Polytope: Scalable Clean-Label Poisoning Attack with Improved Transferability”] \n
-*Dongyu Meng*, Michele Guerriero, Aravind Machiry, Hojjat Aghakhani, Priyanka Bose, Andrea Continella, Christopher Kruegel, Giovanni Vigna \n
+Hojjat Aghakhani, *Dongyu Meng*, Yu-Xiang Wang, Christopher Kruegel, Giovanni Vigna \n
 EuroS\&P 2021 \n
 - [https://seclab.cs.ucsb.edu/files/publications/Meng2021_Bran.pdf “Bran: Reduce Vulnerability Search Space in Large Open Source Repositories by Learning Bug Symptoms”] \n
 *Dongyu Meng*, Michele Guerriero, Aravind Machiry, Hojjat Aghakhani, Priyanka Bose, Andrea Continella, Christopher Kruegel, Giovanni Vigna \n
