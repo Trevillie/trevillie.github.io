@@ -25,17 +25,17 @@ Security Researcher
 
 == About Me
 
-I am a security researcher with Palo Alto Networks. 
+I am a security researcher with [https://www.paloaltonetworks.com/ Palo Alto Networks]. I received my Ph.D. from [https://ucsb.edu/ UC Santa Barbara], where I worked in [https://seclab.cs.ucsb.edu/ SecLab] with [https://www.cs.ucsb.edu/~vigna/ Giovanni Vigna] and [https://www.cs.ucsb.edu/~chris/ Christopher Kruegel]. Previously, I studied at [http://www.shanghaitech.edu.cn/eng/ ShanghaiTech University] with [http://web.cs.ucdavis.edu/~hchen/ Hao Chen] and at [http://www.tsinghua.edu.cn/publish/newthuen/ Tsinghua University] Department of Automation.
 
-I'm passionate about cybersecurity in general. My research involves malware analysis, DeFi security, and adversarial ML. I'm a member of the Shellphish hacking team.
+I'm passionate about cybersecurity in general. While my current focus is malware analysis, my past research involves smart contract analysis, DeFi anomaly detection, symbolic execution, and adversarial ML. I'm a proud member of the Shellphish hacking team.
 
-I go by Hector with non-Chinese speakers. The photo is from 2018 — imagine me with less hair now.
+I go by Hector with non-Chinese speakers. The photo is from 2018 (imagine me with less hair now).
 
 == Publications
 
 - [papers/Houston_NDSS_2026_Full_Version.pdf “Houston: Real-Time Anomaly Detection of Attacks against Ethereum DeFi Protocols”] \n
 *Dongyu Meng*\*, Fabio Gritti\*, Robert McLaughlin, Nicola Ruaro, Ilya Grishchenko, Christopher Kruegel, Giovanni Vigna \n
-NDSS 2026 (To Appear) \n
+NDSS 2026 \n
 - [https://www.usenix.org/system/files/usenixsecurity25-ruaro.pdf “Approve Once, Regret Forever: On the Exploitation of Ethereum’s Approve-TransferFrom Ecosystem”] \n
 Nicola Ruaro, Fabio Gritti, *Dongyu Meng*, Robert McLaughlin, Ilya Grishchenko, Christopher Kruegel, Giovanni Vigna \n
 USENIX Security 2025 \n
@@ -55,3 +55,7 @@ CCS 2017 \n
 - [papers/wu2017fingerprinting.pdf “Evaluating Private Modes in Desktop and Mobile Browsers and Their Resistance to Fingerprinting.”] \n
 Yuanyi Wu, *Dongyu Meng*, and Hao Chen \n
 CNS 2017 \n
+
+== Service
+
+PC: USENIX Security 2027
