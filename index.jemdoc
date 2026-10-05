@@ -13,9 +13,9 @@
 \n
 {{<img src="res/name.png" height="30px"/>}}
 \n\n
-Security Researcher, Ph.D. Candidate
-\nDepartment of Computer Science
-\nUniversity of California, Santa Barbara
+Security Researcher
+\nPalo Alto Networks
+\nPh.D., University of California, Santa Barbara
 \n\n{{<a href="https://scholar.google.com/citations?user=URdHfGMAAAAJ&hl=en"><img src="res/scholar.png" height="40.0em"/></a>}}  {{<a href="https://github.com/Trevillie"><img src="res/github.png" height="40.0em"/></a>}} {{<a href="https://www.linkedin.com/in/trevillie/"><img src="res/linkedin.png" height="40.0em"/></a>}}  \n
 
 #\n{{<img src="res/email.png" height="20.0em"/>}} zbshfmmm\[AT\]gmail\[DOT\]com
@@ -25,9 +25,9 @@ Security Researcher, Ph.D. Candidate
 
 == About Me
 
-I am a Ph.D. candidate at [https://ucsb.edu/ UC Santa Barbara]. I work in [https://seclab.cs.ucsb.edu/ SecLab] with [https://www.cs.ucsb.edu/~vigna/ Giovanni Vigna] and [https://www.cs.ucsb.edu/~chris/ Christopher Kruegel]. Before coming to UCSB, I got my master's degree from [http://www.shanghaitech.edu.cn/eng/ ShanghaiTech University] with [http://web.cs.ucdavis.edu/~hchen/ Hao Chen]. I also hold a bachelor's degree from [http://www.tsinghua.edu.cn/publish/auen/index.html Department of Automation], [http://www.tsinghua.edu.cn/publish/newthuen/ Tsinghua University].
+I am a security researcher with Palo Alto Networks. 
 
-I'm passionate about cybersecurity in general. My past research work involves smart contract analysis, DeFi anomaly detection, symbolic execution, and adversarial ML. I organize and play CTFs with the Shellphish hacking team.
+I'm passionate about cybersecurity in general. My research involves malware analysis, DeFi security, and adversarial ML. I'm a member of the Shellphish hacking team.
 
 I go by Hector with non-Chinese speakers. The photo is from 2018 — imagine me with less hair now.
 
